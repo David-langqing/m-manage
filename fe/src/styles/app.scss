@@ -1,0 +1,33 @@
+.userinfo-area {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 50px;
+  display: flex !important;
+  align-items: center;
+  .userinfo-btn {
+    height: 100%;
+    line-height: 50px;
+    span {
+      display: inline-block;
+      height: 100%;
+      padding: 0 4px 0 0;
+    }
+  }
+}
+.content-wrapper{
+  #adminbtn{
+    position: absolute;
+    right: 0;
+    bottom: -521px;
+  }
+  
+}
+.content-header{
+  #adminSignin{
+    bottom: -24px;
+  }
+}
+
+.table-bordered .btn-sm{
+  padding: 5px 5px;
+}
